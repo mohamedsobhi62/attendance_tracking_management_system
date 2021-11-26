@@ -1,7 +1,7 @@
 # Attendace Tracking Management System 
 ### team members:
 1. Fetian Anas
-2.
+2. Ali Mohamed
 3. 
 
 ### ATMS Requirements Prepared by/ 
